@@ -1,0 +1,25 @@
+# Sys
+.DS_Store
+
+# Logs
+*.log
+
+# Dependency Directories
+node_modules
+
+# DLL
+dll
+lib
+
+# Build
+dist
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn error log
+yarn-error
+
+
+# secret
+.env
